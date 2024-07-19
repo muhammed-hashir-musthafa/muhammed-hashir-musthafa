@@ -1,4 +1,4 @@
-![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://in.pinterest.com/pin/294422894403587586/))
+![MasterHead](https://camo.githubusercontent.com/38b140bd351bb9dcc68ae83d81f19f775f320e6bca0924ba347e1079ea6f2658/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033352f3639332f3635362f6f726967696e616c2f6777796e6574682d62616c7563696f2d68656c6c6f2d776f726c642e6769663f31363135363432383737)
 <h1 align="center">Hi 👋, I'm Muhammmed Hashir Musthafa</h1>
 <h3 align="center">Self taught Front-end Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
